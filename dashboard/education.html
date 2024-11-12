@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Education Level per State Dashboard</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <div class="text-center">
+            <h1 style="margin-top: 40px;">Education Level per State/District/Territory</h1>
+        </div>
+        <div class="row justify-content-center align-items-center">
+            <!-- Dropdowns -->
+            <div class="col-md-4">
+                <div class="form-group">
+                    <label for="selState">State</label>
+                    <select id="selState" class="form-control" style="width: 200px;"></select>
+                </div>
+                <div class="form-group">
+                    <label for="selYear">Year</label>
+                    <select id="selYear" class="form-control" style="width: 200px;"></select>
+                </div>
+                <div class="form-group">
+                    <label for="selSex">Sex</label>
+                    <select id="selSex" class="form-control" style="width: 200px;">
+                        <option value="Male">Male</option>
+                        <option value="Female">Female</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="selAgeGroup">Age Group</label>
+                    <select id="selAgeGroup" class="form-control" style="width: 200px;"></select>
+                </div>
+            </div>
+
+            <!-- Right column with the chart -->
+            <div class="col-md-8">
+                <div id="bar-chart" class="mx-auto" style="margin-top: 60px; width: 100%; height: 500px;"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="education.js"></script>
+</body>
+</html>
