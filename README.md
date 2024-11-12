@@ -1,6 +1,6 @@
-# project-3
+# Project-3
 
-## Introduction
+## Description
 
 ### In this project, we utilized python, javascript and SQL in order to analyze the correlation between Education level and Poverty rate among US states. We created visualizations using python and javascript, including charts with HTML drop down filters in order to show Income per State per year and Education level per State by year.
 
