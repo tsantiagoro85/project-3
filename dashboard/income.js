@@ -62439,7 +62439,7 @@ function updateChart() {
         y: categories,
         type: 'bar',
         orientation: 'h',
-        marker: { color: 'rgba(75, 192, 192, 0.7)' }
+        marker: { color: 'rgba(777,117,154)' }
     };
 
     const layout = {
