@@ -10,7 +10,7 @@ The income datasets were downloaded for 2018-2023, and can be found in the follo
 https://data.census.gov/table?q=state%20population%20by%20income
 
 ## Project Methods Overview
-### We utilized a combination of Excel, and languages such as Python, R/RStudio, JavaScript, HTML and SQL, and libraries including  Seaborn, Plotly and D3 and SQL in order to curate, manipulate and analyze the mentioned datasets, and determine if there is a  correlation between education level and poverty rate across the USA. See the flowchart below:
+### We utilized a combination of Excel, and languages such as Python, R/RStudio, JavaScript, HTML and SQL, and libraries including  Seaborn, Plotly and D3 in order to curate, manipulate and analyze the mentioned datasets, and determine if there is a  correlation between education level and poverty rate across the USA. See the flowchart below:
 
 ![image](https://github.com/user-attachments/assets/bc417b7d-8056-44f2-b409-21d51768431e)
 
