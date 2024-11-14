@@ -363,61 +363,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Alabama",
-     "Value": "12489"
+     "Value": "13381"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Alabama",
-     "Value": "41034"
+     "Value": "12489"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Alabama",
-     "Value": "59767"
+     "Value": "41034"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Alabama",
-     "Value": "101694"
+     "Value": "59767"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Alabama",
-     "Value": "177518"
+     "Value": "101694"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Alabama",
-     "Value": "144512"
+     "Value": "177518"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Alabama",
-     "Value": "192683"
+     "Value": "144512"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Alabama",
-     "Value": "78500"
+     "Value": "192683"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Alabama",
-     "Value": "70472"
+     "Value": "78500"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Alabama",
-     "Value": "726066257"
+     "Value": "70472"
     },
     {
      "Year": "2019",
@@ -1563,61 +1563,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Alaska",
-     "Value": "1620"
+     "Value": "623"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Alaska",
-     "Value": "2243"
+     "Value": "1620"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Alaska",
-     "Value": "4486"
+     "Value": "2243"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Alaska",
-     "Value": "9595"
+     "Value": "4486"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Alaska",
-     "Value": "19813"
+     "Value": "9595"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Alaska",
-     "Value": "18193"
+     "Value": "19813"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Alaska",
-     "Value": "30155"
+     "Value": "18193"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Alaska",
-     "Value": "19563"
+     "Value": "30155"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Alaska",
-     "Value": "18442"
+     "Value": "19563"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Alaska",
-     "Value": "132141800"
+     "Value": "18442"
     },
     {
      "Year": "2019",
@@ -2763,61 +2763,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Arizona",
-     "Value": "15268"
+     "Value": "22902"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Arizona",
-     "Value": "45804"
+     "Value": "15268"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Arizona",
-     "Value": "67434"
+     "Value": "45804"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Arizona",
-     "Value": "134867"
+     "Value": "67434"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Arizona",
-     "Value": "232837"
+     "Value": "134867"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Arizona",
-     "Value": "211207"
+     "Value": "232837"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Arizona",
-     "Value": "278640"
+     "Value": "211207"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Arizona",
-     "Value": "125961"
+     "Value": "278640"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Arizona",
-     "Value": "138684"
+     "Value": "125961"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Arizona",
-     "Value": "1115936073"
+     "Value": "138684"
     },
     {
      "Year": "2019",
@@ -3963,49 +3963,49 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Arkansas",
-     "Value": "8851"
+     "Value": "7745"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Arkansas",
-     "Value": "33744"
+     "Value": "8851"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Arkansas",
-     "Value": "44807"
+     "Value": "33744"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Arkansas",
-     "Value": "66381"
+     "Value": "44807"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Arkansas",
-     "Value": "119487"
+     "Value": "66381"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Arkansas",
-     "Value": "91275"
+     "Value": "119487"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Arkansas",
-     "Value": "105657"
+     "Value": "91275"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Arkansas",
-     "Value": "37616"
+     "Value": "105657"
     },
     {
      "Year": "2019",
@@ -4017,7 +4017,7 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Arkansas",
-     "Value": "408223975"
+     "Value": "37616"
     },
     {
      "Year": "2019",
@@ -5163,61 +5163,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "California",
-     "Value": "71392"
+     "Value": "84372"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "California",
-     "Value": "233647"
+     "Value": "71392"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "California",
-     "Value": "298549"
+     "Value": "233647"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "California",
-     "Value": "499744"
+     "Value": "298549"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "California",
-     "Value": "889155"
+     "Value": "499744"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "California",
-     "Value": "856705"
+     "Value": "889155"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "California",
-     "Value": "1369429"
+     "Value": "856705"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "California",
-     "Value": "843724"
+     "Value": "1369429"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "California",
-     "Value": "1349959"
+     "Value": "843724"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "California",
-     "Value": "7084751939"
+     "Value": "1349959"
     },
     {
      "Year": "2019",
@@ -6363,61 +6363,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Colorado",
-     "Value": "8934"
+     "Value": "12284"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Colorado",
-     "Value": "24569"
+     "Value": "8934"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Colorado",
-     "Value": "41320"
+     "Value": "24569"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Colorado",
-     "Value": "79290"
+     "Value": "41320"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Colorado",
-     "Value": "169749"
+     "Value": "79290"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Colorado",
-     "Value": "170865"
+     "Value": "169749"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Colorado",
-     "Value": "276958"
+     "Value": "170865"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Colorado",
-     "Value": "152997"
+     "Value": "276958"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Colorado",
-     "Value": "182033"
+     "Value": "152997"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Colorado",
-     "Value": "1201574286"
+     "Value": "182033"
     },
     {
      "Year": "2019",
@@ -7563,61 +7563,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Connecticut",
-     "Value": "4547"
+     "Value": "5196"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Connecticut",
-     "Value": "14290"
+     "Value": "4547"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Connecticut",
-     "Value": "17537"
+     "Value": "14290"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Connecticut",
-     "Value": "39622"
+     "Value": "17537"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Connecticut",
-     "Value": "82491"
+     "Value": "39622"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Connecticut",
-     "Value": "84440"
+     "Value": "82491"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Connecticut",
-     "Value": "150692"
+     "Value": "84440"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Connecticut",
-     "Value": "98080"
+     "Value": "150692"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Connecticut",
-     "Value": "151991"
+     "Value": "98080"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Connecticut",
-     "Value": "797506796"
+     "Value": "151991"
     },
     {
      "Year": "2019",
@@ -8763,61 +8763,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Delaware",
-     "Value": "1778"
+     "Value": "1600"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Delaware",
-     "Value": "4978"
+     "Value": "1778"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Delaware",
-     "Value": "7112"
+     "Value": "4978"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Delaware",
-     "Value": "14935"
+     "Value": "7112"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Delaware",
-     "Value": "28091"
+     "Value": "14935"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Delaware",
-     "Value": "29692"
+     "Value": "28091"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Delaware",
-     "Value": "44804"
+     "Value": "29692"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Delaware",
-     "Value": "23113"
+     "Value": "44804"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Delaware",
-     "Value": "21869"
+     "Value": "23113"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Delaware",
-     "Value": "178876766"
+     "Value": "21869"
     },
     {
      "Year": "2019",
@@ -9963,61 +9963,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "District of Columbia",
-     "Value": "157"
+     "Value": "705"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "District of Columbia",
-     "Value": "627"
+     "Value": "157"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "District of Columbia",
-     "Value": "1097"
+     "Value": "627"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "District of Columbia",
-     "Value": "2585"
+     "Value": "1097"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "District of Columbia",
-     "Value": "5170"
+     "Value": "2585"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "District of Columbia",
-     "Value": "6031"
+     "Value": "5170"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "District of Columbia",
-     "Value": "13551"
+     "Value": "6031"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "District of Columbia",
-     "Value": "12690"
+     "Value": "13551"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "District of Columbia",
-     "Value": "35719"
+     "Value": "12690"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "District of Columbia",
-     "Value": "144793287"
+     "Value": "35719"
     },
     {
      "Year": "2019",
@@ -11163,61 +11163,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Florida",
-     "Value": "47713"
+     "Value": "58723"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Florida",
-     "Value": "150478"
+     "Value": "47713"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Florida",
-     "Value": "220212"
+     "Value": "150478"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Florida",
-     "Value": "400052"
+     "Value": "220212"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Florida",
-     "Value": "697339"
+     "Value": "400052"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Florida",
-     "Value": "598243"
+     "Value": "697339"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Florida",
-     "Value": "745052"
+     "Value": "598243"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Florida",
-     "Value": "337659"
+     "Value": "745052"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Florida",
-     "Value": "414733"
+     "Value": "337659"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Florida",
-     "Value": "3110792354"
+     "Value": "414733"
     },
     {
      "Year": "2019",
@@ -12363,61 +12363,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Georgia",
-     "Value": "19827"
+     "Value": "21630"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Georgia",
-     "Value": "64889"
+     "Value": "19827"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Georgia",
-     "Value": "99137"
+     "Value": "64889"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Georgia",
-     "Value": "165829"
+     "Value": "99137"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Georgia",
-     "Value": "326250"
+     "Value": "165829"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Georgia",
-     "Value": "282990"
+     "Value": "326250"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Georgia",
-     "Value": "401954"
+     "Value": "282990"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Georgia",
-     "Value": "191063"
+     "Value": "401954"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Georgia",
-     "Value": "228915"
+     "Value": "191063"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Georgia",
-     "Value": "1670199699"
+     "Value": "228915"
     },
     {
      "Year": "2019",
@@ -13563,61 +13563,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Hawaii",
-     "Value": "2320"
+     "Value": "3480"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Hawaii",
-     "Value": "7193"
+     "Value": "2320"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Hawaii",
-     "Value": "8817"
+     "Value": "7193"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Hawaii",
-     "Value": "14385"
+     "Value": "8817"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Hawaii",
-     "Value": "32947"
+     "Value": "14385"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Hawaii",
-     "Value": "35268"
+     "Value": "32947"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Hawaii",
-     "Value": "59398"
+     "Value": "35268"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Hawaii",
-     "Value": "32715"
+     "Value": "59398"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Hawaii",
-     "Value": "35732"
+     "Value": "32715"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Hawaii",
-     "Value": "251017485"
+     "Value": "35732"
     },
     {
      "Year": "2019",
@@ -14763,61 +14763,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Idaho",
-     "Value": "3575"
+     "Value": "3932"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Idaho",
-     "Value": "16443"
+     "Value": "3575"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Idaho",
-     "Value": "20017"
+     "Value": "16443"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Idaho",
-     "Value": "39320"
+     "Value": "20017"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Idaho",
-     "Value": "77210"
+     "Value": "39320"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Idaho",
-     "Value": "65056"
+     "Value": "77210"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Idaho",
-     "Value": "75780"
+     "Value": "65056"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Idaho",
-     "Value": "28954"
+     "Value": "75780"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Idaho",
-     "Value": "27166"
+     "Value": "28954"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Idaho",
-     "Value": "289708507"
+     "Value": "27166"
     },
     {
      "Year": "2019",
@@ -15963,31 +15963,31 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Illinois",
-     "Value": "18011"
+     "Value": "24765"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Illinois",
-     "Value": "60788"
+     "Value": "18011"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Illinois",
-     "Value": "92307"
+     "Value": "60788"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Illinois",
-     "Value": "182363"
+     "Value": "92307"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Illinois",
-     "Value": "337710"
+     "Value": "182363"
     },
     {
      "Year": "2019",
@@ -15999,25 +15999,25 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Illinois",
-     "Value": "556096"
+     "Value": "337710"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Illinois",
-     "Value": "288179"
+     "Value": "556096"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Illinois",
-     "Value": "355721"
+     "Value": "288179"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Illinois",
-     "Value": "2356744053"
+     "Value": "355721"
     },
     {
      "Year": "2019",
@@ -17163,61 +17163,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Indiana",
-     "Value": "10992"
+     "Value": "13435"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Indiana",
-     "Value": "34198"
+     "Value": "10992"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Indiana",
-     "Value": "61069"
+     "Value": "34198"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Indiana",
-     "Value": "122137"
+     "Value": "61069"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Indiana",
-     "Value": "252824"
+     "Value": "122137"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Indiana",
-     "Value": "219847"
+     "Value": "252824"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Indiana",
-     "Value": "293130"
+     "Value": "219847"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Indiana",
-     "Value": "114809"
+     "Value": "293130"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Indiana",
-     "Value": "100153"
+     "Value": "114809"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Indiana",
-     "Value": "1067480002"
+     "Value": "100153"
     },
     {
      "Year": "2019",
@@ -18363,61 +18363,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Iowa",
-     "Value": "5031"
+     "Value": "6289"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Iowa",
-     "Value": "16979"
+     "Value": "5031"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Iowa",
-     "Value": "27041"
+     "Value": "16979"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Iowa",
-     "Value": "60370"
+     "Value": "27041"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Iowa",
-     "Value": "124513"
+     "Value": "60370"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Iowa",
-     "Value": "120111"
+     "Value": "124513"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Iowa",
-     "Value": "154698"
+     "Value": "120111"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Iowa",
-     "Value": "59741"
+     "Value": "154698"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Iowa",
-     "Value": "54081"
+     "Value": "59741"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Iowa",
-     "Value": "567112213"
+     "Value": "54081"
     },
     {
      "Year": "2019",
@@ -19563,61 +19563,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Kansas",
-     "Value": "5145"
+     "Value": "5716"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Kansas",
-     "Value": "16577"
+     "Value": "5145"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Kansas",
-     "Value": "26295"
+     "Value": "16577"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Kansas",
-     "Value": "56019"
+     "Value": "26295"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Kansas",
-     "Value": "110323"
+     "Value": "56019"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Kansas",
-     "Value": "101748"
+     "Value": "110323"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Kansas",
-     "Value": "136617"
+     "Value": "101748"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Kansas",
-     "Value": "54304"
+     "Value": "136617"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Kansas",
-     "Value": "59448"
+     "Value": "54304"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Kansas",
-     "Value": "515384024"
+     "Value": "59448"
     },
     {
      "Year": "2019",
@@ -20763,61 +20763,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Kentucky",
-     "Value": "12454"
+     "Value": "15775"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Kentucky",
-     "Value": "37362"
+     "Value": "12454"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Kentucky",
-     "Value": "54798"
+     "Value": "37362"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Kentucky",
-     "Value": "97972"
+     "Value": "54798"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Kentucky",
-     "Value": "168544"
+     "Value": "97972"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Kentucky",
-     "Value": "146127"
+     "Value": "168544"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Kentucky",
-     "Value": "170205"
+     "Value": "146127"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Kentucky",
-     "Value": "66421"
+     "Value": "170205"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Kentucky",
-     "Value": "59779"
+     "Value": "66421"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Kentucky",
-     "Value": "653645088"
+     "Value": "59779"
     },
     {
      "Year": "2019",
@@ -21963,49 +21963,49 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Louisiana",
-     "Value": "8847"
+     "Value": "10321"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Louisiana",
-     "Value": "39810"
+     "Value": "8847"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Louisiana",
-     "Value": "47182"
+     "Value": "39810"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Louisiana",
-     "Value": "73722"
+     "Value": "47182"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Louisiana",
-     "Value": "126802"
+     "Value": "73722"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Louisiana",
-     "Value": "126065"
+     "Value": "126802"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Louisiana",
-     "Value": "161452"
+     "Value": "126065"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Louisiana",
-     "Value": "71511"
+     "Value": "161452"
     },
     {
      "Year": "2019",
@@ -22017,7 +22017,7 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Louisiana",
-     "Value": "638279435"
+     "Value": "71511"
     },
     {
      "Year": "2019",
@@ -23163,61 +23163,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Maine",
-     "Value": "2414"
+     "Value": "2683"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Maine",
-     "Value": "9657"
+     "Value": "2414"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Maine",
-     "Value": "14218"
+     "Value": "9657"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Maine",
-     "Value": "26021"
+     "Value": "14218"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Maine",
-     "Value": "53115"
+     "Value": "26021"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Maine",
-     "Value": "50433"
+     "Value": "53115"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Maine",
-     "Value": "61699"
+     "Value": "50433"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Maine",
-     "Value": "23875"
+     "Value": "61699"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Maine",
-     "Value": "24143"
+     "Value": "23875"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Maine",
-     "Value": "233041090"
+     "Value": "24143"
     },
     {
      "Year": "2019",
@@ -24363,61 +24363,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Maryland",
-     "Value": "7359"
+     "Value": "10513"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Maryland",
-     "Value": "18924"
+     "Value": "7359"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Maryland",
-     "Value": "27334"
+     "Value": "18924"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Maryland",
-     "Value": "57823"
+     "Value": "27334"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Maryland",
-     "Value": "124056"
+     "Value": "57823"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Maryland",
-     "Value": "133518"
+     "Value": "124056"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Maryland",
-     "Value": "256522"
+     "Value": "133518"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Maryland",
-     "Value": "168211"
+     "Value": "256522"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Maryland",
-     "Value": "247060"
+     "Value": "168211"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Maryland",
-     "Value": "1327668712"
+     "Value": "247060"
     },
     {
      "Year": "2019",
@@ -25563,61 +25563,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Massachusetts",
-     "Value": "9906"
+     "Value": "12382"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Massachusetts",
-     "Value": "24764"
+     "Value": "9906"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Massachusetts",
-     "Value": "35908"
+     "Value": "24764"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Massachusetts",
-     "Value": "73054"
+     "Value": "35908"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Massachusetts",
-     "Value": "133726"
+     "Value": "73054"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Massachusetts",
-     "Value": "147346"
+     "Value": "133726"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Massachusetts",
-     "Value": "292216"
+     "Value": "147346"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Massachusetts",
-     "Value": "204303"
+     "Value": "292216"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Massachusetts",
-     "Value": "304598"
+     "Value": "204303"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Massachusetts",
-     "Value": "1607880888"
+     "Value": "304598"
     },
     {
      "Year": "2019",
@@ -26763,61 +26763,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Michigan",
-     "Value": "16427"
+     "Value": "21902"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Michigan",
-     "Value": "58406"
+     "Value": "16427"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Michigan",
-     "Value": "91260"
+     "Value": "58406"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Michigan",
-     "Value": "180694"
+     "Value": "91260"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Michigan",
-     "Value": "344961"
+     "Value": "180694"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Michigan",
-     "Value": "315758"
+     "Value": "344961"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Michigan",
-     "Value": "417969"
+     "Value": "315758"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Michigan",
-     "Value": "189820"
+     "Value": "417969"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Michigan",
-     "Value": "187995"
+     "Value": "189820"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Michigan",
-     "Value": "1642817915"
+     "Value": "187995"
     },
     {
      "Year": "2019",
@@ -27963,61 +27963,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Minnesota",
-     "Value": "6603"
+     "Value": "7704"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Minnesota",
-     "Value": "22012"
+     "Value": "6603"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Minnesota",
-     "Value": "37420"
+     "Value": "22012"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Minnesota",
-     "Value": "74840"
+     "Value": "37420"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Minnesota",
-     "Value": "166188"
+     "Value": "74840"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Minnesota",
-     "Value": "184898"
+     "Value": "166188"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Minnesota",
-     "Value": "292755"
+     "Value": "184898"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Minnesota",
-     "Value": "149679"
+     "Value": "292755"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Minnesota",
-     "Value": "158484"
+     "Value": "149679"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Minnesota",
-     "Value": "1171854626"
+     "Value": "158484"
     },
     {
      "Year": "2019",
@@ -29163,61 +29163,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Mississippi",
-     "Value": "7704"
+     "Value": "8185"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Mississippi",
-     "Value": "26481"
+     "Value": "7704"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Mississippi",
-     "Value": "32741"
+     "Value": "26481"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Mississippi",
-     "Value": "63555"
+     "Value": "32741"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Mississippi",
-     "Value": "103036"
+     "Value": "63555"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Mississippi",
-     "Value": "79925"
+     "Value": "103036"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Mississippi",
-     "Value": "93407"
+     "Value": "79925"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Mississippi",
-     "Value": "37555"
+     "Value": "93407"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Mississippi",
-     "Value": "28407"
+     "Value": "37555"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Mississippi",
-     "Value": "359413697"
+     "Value": "28407"
     },
     {
      "Year": "2019",
@@ -30363,61 +30363,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Missouri",
-     "Value": "12766"
+     "Value": "15087"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Missouri",
-     "Value": "39459"
+     "Value": "12766"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Missouri",
-     "Value": "61509"
+     "Value": "39459"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Missouri",
-     "Value": "124179"
+     "Value": "61509"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Missouri",
-     "Value": "230950"
+     "Value": "124179"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Missouri",
-     "Value": "203097"
+     "Value": "230950"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Missouri",
-     "Value": "264606"
+     "Value": "203097"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Missouri",
-     "Value": "105610"
+     "Value": "264606"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Missouri",
-     "Value": "104450"
+     "Value": "105610"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Missouri",
-     "Value": "1003055217"
+     "Value": "104450"
     },
     {
      "Year": "2019",
@@ -31563,61 +31563,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Montana",
-     "Value": "2778"
+     "Value": "1923"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Montana",
-     "Value": "8761"
+     "Value": "2778"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Montana",
-     "Value": "11111"
+     "Value": "8761"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Montana",
-     "Value": "25428"
+     "Value": "11111"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Montana",
-     "Value": "44232"
+     "Value": "25428"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Montana",
-     "Value": "37821"
+     "Value": "44232"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Montana",
-     "Value": "47864"
+     "Value": "37821"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Montana",
-     "Value": "17308"
+     "Value": "47864"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Montana",
-     "Value": "16240"
+     "Value": "17308"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Montana",
-     "Value": "176522359"
+     "Value": "16240"
     },
     {
      "Year": "2019",
@@ -32763,61 +32763,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Nebraska",
-     "Value": "3497"
+     "Value": "3108"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Nebraska",
-     "Value": "10491"
+     "Value": "3497"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Nebraska",
-     "Value": "16707"
+     "Value": "10491"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Nebraska",
-     "Value": "36911"
+     "Value": "16707"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Nebraska",
-     "Value": "75376"
+     "Value": "36911"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Nebraska",
-     "Value": "73045"
+     "Value": "75376"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Nebraska",
-     "Value": "95192"
+     "Value": "73045"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Nebraska",
-     "Value": "40019"
+     "Value": "95192"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Nebraska",
-     "Value": "34580"
+     "Value": "40019"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Nebraska",
-     "Value": "354024170"
+     "Value": "34580"
     },
     {
      "Year": "2019",
@@ -33963,61 +33963,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Nevada",
-     "Value": "5571"
+     "Value": "7091"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Nevada",
-     "Value": "17220"
+     "Value": "5571"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Nevada",
-     "Value": "27856"
+     "Value": "17220"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Nevada",
-     "Value": "50647"
+     "Value": "27856"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Nevada",
-     "Value": "93190"
+     "Value": "50647"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Nevada",
-     "Value": "88126"
+     "Value": "93190"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Nevada",
-     "Value": "113956"
+     "Value": "88126"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Nevada",
-     "Value": "48115"
+     "Value": "113956"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Nevada",
-     "Value": "55205"
+     "Value": "48115"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Nevada",
-     "Value": "449416155"
+     "Value": "55205"
     },
     {
      "Year": "2019",
@@ -35163,61 +35163,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "New Hampshire",
-     "Value": "1642"
+     "Value": "1916"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "New Hampshire",
-     "Value": "4926"
+     "Value": "1642"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "New Hampshire",
-     "Value": "9032"
+     "Value": "4926"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "New Hampshire",
-     "Value": "21895"
+     "Value": "9032"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "New Hampshire",
-     "Value": "38589"
+     "Value": "21895"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "New Hampshire",
-     "Value": "43789"
+     "Value": "38589"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "New Hampshire",
-     "Value": "70063"
+     "Value": "43789"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "New Hampshire",
-     "Value": "38315"
+     "Value": "70063"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "New Hampshire",
-     "Value": "43789"
+     "Value": "38315"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "New Hampshire",
-     "Value": "298576115"
+     "Value": "43789"
     },
     {
      "Year": "2019",
@@ -36363,61 +36363,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "New Jersey",
-     "Value": "11672"
+     "Value": "15007"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "New Jersey",
-     "Value": "36684"
+     "Value": "11672"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "New Jersey",
-     "Value": "56694"
+     "Value": "36684"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "New Jersey",
-     "Value": "100048"
+     "Value": "56694"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "New Jersey",
-     "Value": "195093"
+     "Value": "100048"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "New Jersey",
-     "Value": "203430"
+     "Value": "195093"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "New Jersey",
-     "Value": "380182"
+     "Value": "203430"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "New Jersey",
-     "Value": "253454"
+     "Value": "380182"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "New Jersey",
-     "Value": "415198"
+     "Value": "253454"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "New Jersey",
-     "Value": "2097351636"
+     "Value": "415198"
     },
     {
      "Year": "2019",
@@ -37563,61 +37563,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "New Mexico",
-     "Value": "7625"
+     "Value": "6299"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "New Mexico",
-     "Value": "21216"
+     "Value": "7625"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "New Mexico",
-     "Value": "24531"
+     "Value": "21216"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "New Mexico",
-     "Value": "33151"
+     "Value": "24531"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "New Mexico",
-     "Value": "63980"
+     "Value": "33151"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "New Mexico",
-     "Value": "53704"
+     "Value": "63980"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "New Mexico",
-     "Value": "64643"
+     "Value": "53704"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "New Mexico",
-     "Value": "30167"
+     "Value": "64643"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "New Mexico",
-     "Value": "26189"
+     "Value": "30167"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "New Mexico",
-     "Value": "261106598"
+     "Value": "26189"
     },
     {
      "Year": "2019",
@@ -38763,61 +38763,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "New York",
-     "Value": "41894"
+     "Value": "45117"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "New York",
-     "Value": "112792"
+     "Value": "41894"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "New York",
-     "Value": "132127"
+     "Value": "112792"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "New York",
-     "Value": "248141"
+     "Value": "132127"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "New York",
-     "Value": "451166"
+     "Value": "248141"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "New York",
-     "Value": "431830"
+     "Value": "451166"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "New York",
-     "Value": "686417"
+     "Value": "431830"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "New York",
-     "Value": "422163"
+     "Value": "686417"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "New York",
-     "Value": "654191"
+     "Value": "422163"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "New York",
-     "Value": "3506043989"
+     "Value": "654191"
     },
     {
      "Year": "2019",
@@ -39963,61 +39963,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "North Carolina",
-     "Value": "19261"
+     "Value": "26965"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "North Carolina",
-     "Value": "73191"
+     "Value": "19261"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "North Carolina",
-     "Value": "111713"
+     "Value": "73191"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "North Carolina",
-     "Value": "204164"
+     "Value": "111713"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "North Carolina",
-     "Value": "364029"
+     "Value": "204164"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "North Carolina",
-     "Value": "325507"
+     "Value": "364029"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "North Carolina",
-     "Value": "414107"
+     "Value": "325507"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "North Carolina",
-     "Value": "181051"
+     "Value": "414107"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "North Carolina",
-     "Value": "208017"
+     "Value": "181051"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "North Carolina",
-     "Value": "1680465406"
+     "Value": "208017"
     },
     {
      "Year": "2019",
@@ -41163,61 +41163,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "North Dakota",
-     "Value": "912"
+     "Value": "1520"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "North Dakota",
-     "Value": "5016"
+     "Value": "912"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "North Dakota",
-     "Value": "5320"
+     "Value": "5016"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "North Dakota",
-     "Value": "12008"
+     "Value": "5320"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "North Dakota",
-     "Value": "24775"
+     "Value": "12008"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "North Dakota",
-     "Value": "27207"
+     "Value": "24775"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "North Dakota",
-     "Value": "42711"
+     "Value": "27207"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "North Dakota",
-     "Value": "15351"
+     "Value": "42711"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "North Dakota",
-     "Value": "17175"
+     "Value": "15351"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "North Dakota",
-     "Value": "150181700"
+     "Value": "17175"
     },
     {
      "Year": "2019",
@@ -42363,61 +42363,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Ohio",
-     "Value": "23393"
+     "Value": "19140"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Ohio",
-     "Value": "57420"
+     "Value": "23393"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Ohio",
-     "Value": "106334"
+     "Value": "57420"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Ohio",
-     "Value": "202034"
+     "Value": "106334"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Ohio",
-     "Value": "412574"
+     "Value": "202034"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Ohio",
-     "Value": "374294"
+     "Value": "412574"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Ohio",
-     "Value": "499768"
+     "Value": "374294"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Ohio",
-     "Value": "219047"
+     "Value": "499768"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Ohio",
-     "Value": "212667"
+     "Value": "219047"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Ohio",
-     "Value": "1930635375"
+     "Value": "212667"
     },
     {
      "Year": "2019",
@@ -43563,61 +43563,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Oklahoma",
-     "Value": "9991"
+     "Value": "10705"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Oklahoma",
-     "Value": "29259"
+     "Value": "9991"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Oklahoma",
-     "Value": "46386"
+     "Value": "29259"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Oklahoma",
-     "Value": "79927"
+     "Value": "46386"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Oklahoma",
-     "Value": "142727"
+     "Value": "79927"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Oklahoma",
-     "Value": "124173"
+     "Value": "142727"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Oklahoma",
-     "Value": "152718"
+     "Value": "124173"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Oklahoma",
-     "Value": "60659"
+     "Value": "152718"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Oklahoma",
-     "Value": "57091"
+     "Value": "60659"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Oklahoma",
-     "Value": "584774748"
+     "Value": "57091"
     },
     {
      "Year": "2019",
@@ -44763,61 +44763,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Oregon",
-     "Value": "5466"
+     "Value": "10150"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Oregon",
-     "Value": "22643"
+     "Value": "5466"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Oregon",
-     "Value": "37479"
+     "Value": "22643"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Oregon",
-     "Value": "70273"
+     "Value": "37479"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Oregon",
-     "Value": "135860"
+     "Value": "70273"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Oregon",
-     "Value": "129614"
+     "Value": "135860"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Oregon",
-     "Value": "186613"
+     "Value": "129614"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Oregon",
-     "Value": "90574"
+     "Value": "186613"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Oregon",
-     "Value": "91354"
+     "Value": "90574"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Oregon",
-     "Value": "746529573"
+     "Value": "91354"
     },
     {
      "Year": "2019",
@@ -45963,61 +45963,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Pennsylvania",
-     "Value": "21360"
+     "Value": "26107"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Pennsylvania",
-     "Value": "64081"
+     "Value": "21360"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Pennsylvania",
-     "Value": "106801"
+     "Value": "64081"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Pennsylvania",
-     "Value": "215975"
+     "Value": "106801"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Pennsylvania",
-     "Value": "408217"
+     "Value": "215975"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Pennsylvania",
-     "Value": "401096"
+     "Value": "408217"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Pennsylvania",
-     "Value": "557738"
+     "Value": "401096"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Pennsylvania",
-     "Value": "270562"
+     "Value": "557738"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Pennsylvania",
-     "Value": "303789"
+     "Value": "270562"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Pennsylvania",
-     "Value": "2276115769"
+     "Value": "303789"
     },
     {
      "Year": "2019",
@@ -47163,61 +47163,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Rhode Island",
-     "Value": "1079"
+     "Value": "1258"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Rhode Island",
-     "Value": "4854"
+     "Value": "1079"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Rhode Island",
-     "Value": "5573"
+     "Value": "4854"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Rhode Island",
-     "Value": "13124"
+     "Value": "5573"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Rhode Island",
-     "Value": "27865"
+     "Value": "13124"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Rhode Island",
-     "Value": "29303"
+     "Value": "27865"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Rhode Island",
-     "Value": "45304"
+     "Value": "29303"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Rhode Island",
-     "Value": "25528"
+     "Value": "45304"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Rhode Island",
-     "Value": "26068"
+     "Value": "25528"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Rhode Island",
-     "Value": "190702785"
+     "Value": "26068"
     },
     {
      "Year": "2019",
@@ -48363,61 +48363,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "South Carolina",
-     "Value": "9289"
+     "Value": "13004"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "South Carolina",
-     "Value": "32510"
+     "Value": "9289"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "South Carolina",
-     "Value": "50159"
+     "Value": "32510"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "South Carolina",
-     "Value": "100318"
+     "Value": "50159"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "South Carolina",
-     "Value": "182059"
+     "Value": "100318"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "South Carolina",
-     "Value": "158837"
+     "Value": "182059"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "South Carolina",
-     "Value": "201565"
+     "Value": "158837"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "South Carolina",
-     "Value": "92887"
+     "Value": "201565"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "South Carolina",
-     "Value": "88243"
+     "Value": "92887"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "South Carolina",
-     "Value": "797574226"
+     "Value": "88243"
     },
     {
      "Year": "2019",
@@ -49563,61 +49563,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "South Dakota",
-     "Value": "1065"
+     "Value": "1598"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "South Dakota",
-     "Value": "5504"
+     "Value": "1065"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "South Dakota",
-     "Value": "8699"
+     "Value": "5504"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "South Dakota",
-     "Value": "15623"
+     "Value": "8699"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "South Dakota",
-     "Value": "37637"
+     "Value": "15623"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "South Dakota",
-     "Value": "34619"
+     "Value": "37637"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "South Dakota",
-     "Value": "43673"
+     "Value": "34619"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "South Dakota",
-     "Value": "15623"
+     "Value": "43673"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "South Dakota",
-     "Value": "13670"
+     "Value": "15623"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "South Dakota",
-     "Value": "157499288"
+     "Value": "13670"
     },
     {
      "Year": "2019",
@@ -50763,61 +50763,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Tennessee",
-     "Value": "14024"
+     "Value": "19123"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Tennessee",
-     "Value": "52270"
+     "Value": "14024"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Tennessee",
-     "Value": "81593"
+     "Value": "52270"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Tennessee",
-     "Value": "140238"
+     "Value": "81593"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Tennessee",
-     "Value": "248603"
+     "Value": "140238"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Tennessee",
-     "Value": "221830"
+     "Value": "248603"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Tennessee",
-     "Value": "267726"
+     "Value": "221830"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Tennessee",
-     "Value": "109640"
+     "Value": "267726"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Tennessee",
-     "Value": "118564"
+     "Value": "109640"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Tennessee",
-     "Value": "1057748246"
+     "Value": "118564"
     },
     {
      "Year": "2019",
@@ -51963,61 +51963,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Texas",
-     "Value": "59455"
+     "Value": "74318"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Texas",
-     "Value": "203137"
+     "Value": "59455"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Texas",
-     "Value": "262592"
+     "Value": "203137"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Texas",
-     "Value": "470684"
+     "Value": "262592"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Texas",
-     "Value": "817503"
+     "Value": "470684"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Texas",
-     "Value": "758049"
+     "Value": "817503"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Texas",
-     "Value": "1099914"
+     "Value": "758049"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Texas",
-     "Value": "554911"
+     "Value": "1099914"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Texas",
-     "Value": "658957"
+     "Value": "554911"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Texas",
-     "Value": "4644311077"
+     "Value": "658957"
     },
     {
      "Year": "2019",
@@ -53163,31 +53163,31 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Utah",
-     "Value": "5573"
+     "Value": "6812"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Utah",
-     "Value": "17339"
+     "Value": "5573"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Utah",
-     "Value": "26628"
+     "Value": "17339"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Utah",
-     "Value": "47063"
+     "Value": "26628"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Utah",
-     "Value": "114561"
+     "Value": "47063"
     },
     {
      "Year": "2019",
@@ -53199,25 +53199,25 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Utah",
-     "Value": "157290"
+     "Value": "114561"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Utah",
-     "Value": "68118"
+     "Value": "157290"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Utah",
-     "Value": "61306"
+     "Value": "68118"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Utah",
-     "Value": "586696028"
+     "Value": "61306"
     },
     {
      "Year": "2019",
@@ -54002,1201 +54002,1201 @@ const data = [
     {
      "Year": "2018",
      "Category": "Total_Households_Less_10000",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "15421"
     },
     {
      "Year": "2018",
      "Category": "Total_Households_10000_14999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "12546"
     },
     {
      "Year": "2018",
      "Category": "Total_Households_15000_24999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "21955"
     },
     {
      "Year": "2018",
      "Category": "Total_Households_25000_34999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "23262"
     },
     {
      "Year": "2018",
      "Category": "Total_Households_35000_49999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "32672"
     },
     {
      "Year": "2018",
      "Category": "Total_Households_50000_74999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "48615"
     },
     {
      "Year": "2018",
      "Category": "Total_Households_75000_99999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "38422"
     },
     {
      "Year": "2018",
      "Category": "Total_Households_100000_149999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "41820"
     },
     {
      "Year": "2018",
      "Category": "Total_Households_150000_199999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "14114"
     },
     {
      "Year": "2018",
      "Category": "Total_Households_200000_or_more",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "12546"
     },
     {
      "Year": "2018",
      "Category": "Total_Families_Less_10000",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "4518"
     },
     {
      "Year": "2018",
      "Category": "Total_Families_10000_14999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "2493"
     },
     {
      "Year": "2018",
      "Category": "Total_Families_15000_24999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "7634"
     },
     {
      "Year": "2018",
      "Category": "Total_Families_25000_34999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "10127"
     },
     {
      "Year": "2018",
      "Category": "Total_Families_35000_49999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "17294"
     },
     {
      "Year": "2018",
      "Category": "Total_Families_50000_74999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "28980"
     },
     {
      "Year": "2018",
      "Category": "Total_Families_75000_99999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "29291"
     },
     {
      "Year": "2018",
      "Category": "Total_Families_100000_149999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "33342"
     },
     {
      "Year": "2018",
      "Category": "Total_Families_150000_199999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "11529"
     },
     {
      "Year": "2018",
      "Category": "Total_Families_200000_or_more",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "10750"
     },
     {
      "Year": "2018",
      "Category": "Total_Married-couple-families_Less_10000",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "1473"
     },
     {
      "Year": "2018",
      "Category": "Total_Married-couple-families_10000_14999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "982"
     },
     {
      "Year": "2018",
      "Category": "Total_Married-couple-families_15000_24999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "4664"
     },
     {
      "Year": "2018",
      "Category": "Total_Married-couple-families_25000_34999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "6014"
     },
     {
      "Year": "2018",
      "Category": "Total_Married-couple-families_35000_49999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "10679"
     },
     {
      "Year": "2018",
      "Category": "Total_Married-couple-families_50000_74999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "22339"
     },
     {
      "Year": "2018",
      "Category": "Total_Married-couple-families_75000_99999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "24917"
     },
     {
      "Year": "2018",
      "Category": "Total_Married-couple-families_100000_149999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "30441"
     },
     {
      "Year": "2018",
      "Category": "Total_Married-couple-families_150000_199999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "10310"
     },
     {
      "Year": "2018",
      "Category": "Total_Married-couple-families_200000_or_more",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "10801"
     },
     {
      "Year": "2018",
      "Category": "Total_Nonfamily_households_Less_10000",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "11929"
     },
     {
      "Year": "2018",
      "Category": "Total_Nonfamily_households_10000_14999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "10451"
     },
     {
      "Year": "2018",
      "Category": "Total_Nonfamily_households_15000_24999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "15096"
     },
     {
      "Year": "2018",
      "Category": "Total_Nonfamily_households_25000_34999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "13618"
     },
     {
      "Year": "2018",
      "Category": "Total_Nonfamily_households_35000_49999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "16152"
     },
     {
      "Year": "2018",
      "Category": "Total_Nonfamily_households_50000_74999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "19002"
     },
     {
      "Year": "2018",
      "Category": "Total_Nonfamily_households_75000_99999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "8446"
     },
     {
      "Year": "2018",
      "Category": "Total_Nonfamily_households_100000_149999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "7179"
     },
     {
      "Year": "2018",
      "Category": "Total_Nonfamily_households_150000_199999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "2217"
     },
     {
      "Year": "2018",
      "Category": "Total_Nonfamily_households_200000_or_more",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "1478"
     },
     {
      "Year": "2019",
      "Category": "Total_Households_Less_10000",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "13664"
     },
     {
      "Year": "2019",
      "Category": "Total_Households_10000_14999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "11562"
     },
     {
      "Year": "2019",
      "Category": "Total_Households_15000_24999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "20496"
     },
     {
      "Year": "2019",
      "Category": "Total_Households_25000_34999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "24175"
     },
     {
      "Year": "2019",
      "Category": "Total_Households_35000_49999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "32320"
     },
     {
      "Year": "2019",
      "Category": "Total_Households_50000_74999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "49926"
     },
     {
      "Year": "2019",
      "Category": "Total_Households_75000_99999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "35999"
     },
     {
      "Year": "2019",
      "Category": "Total_Households_100000_149999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "42831"
     },
     {
      "Year": "2019",
      "Category": "Total_Households_150000_199999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "16029"
     },
     {
      "Year": "2019",
      "Category": "Total_Households_200000_or_more",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "15766"
     },
     {
      "Year": "2019",
      "Category": "Total_Families_Less_10000",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "4060"
     },
     {
      "Year": "2019",
      "Category": "Total_Families_10000_14999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "2655"
     },
     {
      "Year": "2019",
      "Category": "Total_Families_15000_24999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "7808"
     },
     {
      "Year": "2019",
      "Category": "Total_Families_25000_34999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "10150"
     },
     {
      "Year": "2019",
      "Category": "Total_Families_35000_49999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "15928"
     },
     {
      "Year": "2019",
      "Category": "Total_Families_50000_74999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "28420"
     },
     {
      "Year": "2019",
      "Category": "Total_Families_75000_99999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "24360"
     },
     {
      "Year": "2019",
      "Category": "Total_Families_100000_149999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "35603"
     },
     {
      "Year": "2019",
      "Category": "Total_Families_150000_199999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "13898"
     },
     {
      "Year": "2019",
      "Category": "Total_Families_200000_or_more",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "13117"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
-     "State": "Vermont",
-     "Value": "1089"
+     "State": "Vermo0t",
+     "Value": "1452"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
-     "State": "Vermont",
-     "Value": "3147"
+     "State": "Vermo0t",
+     "Value": "1089"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
-     "State": "Vermont",
-     "Value": "4962"
+     "State": "Vermo0t",
+     "Value": "3147"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
-     "State": "Vermont",
-     "Value": "9562"
+     "State": "Vermo0t",
+     "Value": "4962"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
-     "State": "Vermont",
-     "Value": "22149"
+     "State": "Vermo0t",
+     "Value": "9562"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
-     "State": "Vermont",
-     "Value": "21060"
+     "State": "Vermo0t",
+     "Value": "22149"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
-     "State": "Vermont",
-     "Value": "32074"
+     "State": "Vermo0t",
+     "Value": "21060"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
-     "State": "Vermont",
-     "Value": "13314"
+     "State": "Vermo0t",
+     "Value": "32074"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
-     "State": "Vermont",
-     "Value": "12224"
+     "State": "Vermo0t",
+     "Value": "13314"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
-     "State": "Vermont",
-     "Value": "116443180"
+     "State": "Vermo0t",
+     "Value": "12224"
     },
     {
      "Year": "2019",
      "Category": "Total_Nonfamily_households_Less_10000",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "10768"
     },
     {
      "Year": "2019",
      "Category": "Total_Nonfamily_households_10000_14999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "9169"
     },
     {
      "Year": "2019",
      "Category": "Total_Nonfamily_households_15000_24999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "14393"
     },
     {
      "Year": "2019",
      "Category": "Total_Nonfamily_households_25000_34999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "14393"
     },
     {
      "Year": "2019",
      "Category": "Total_Nonfamily_households_35000_49999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "16952"
     },
     {
      "Year": "2019",
      "Category": "Total_Nonfamily_households_50000_74999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "20470"
     },
     {
      "Year": "2019",
      "Category": "Total_Nonfamily_households_75000_99999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "10128"
     },
     {
      "Year": "2019",
      "Category": "Total_Nonfamily_households_100000_149999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "6397"
     },
     {
      "Year": "2019",
      "Category": "Total_Nonfamily_households_150000_199999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "1812"
     },
     {
      "Year": "2019",
      "Category": "Total_Nonfamily_households_200000_or_more",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "2132"
     },
     {
      "Year": "2021",
      "Category": "Total_Households_Less_10000",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "11077"
     },
     {
      "Year": "2021",
      "Category": "Total_Households_10000_14999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "11617"
     },
     {
      "Year": "2021",
      "Category": "Total_Households_15000_24999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "20262"
     },
     {
      "Year": "2021",
      "Category": "Total_Households_25000_34999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "20262"
     },
     {
      "Year": "2021",
      "Category": "Total_Households_35000_49999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "29988"
     },
     {
      "Year": "2021",
      "Category": "Total_Households_50000_74999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "46198"
     },
     {
      "Year": "2021",
      "Category": "Total_Households_75000_99999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "39714"
     },
     {
      "Year": "2021",
      "Category": "Total_Households_100000_149999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "46738"
     },
     {
      "Year": "2021",
      "Category": "Total_Households_150000_199999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "20803"
     },
     {
      "Year": "2021",
      "Category": "Total_Households_200000_or_more",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "23504"
     },
     {
      "Year": "2021",
      "Category": "Total_Families_Less_10000",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "4786"
     },
     {
      "Year": "2021",
      "Category": "Total_Families_10000_14999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "2476"
     },
     {
      "Year": "2021",
      "Category": "Total_Families_15000_24999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "6271"
     },
     {
      "Year": "2021",
      "Category": "Total_Families_25000_34999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "7757"
     },
     {
      "Year": "2021",
      "Category": "Total_Families_35000_49999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "13863"
     },
     {
      "Year": "2021",
      "Category": "Total_Families_50000_74999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "29047"
     },
     {
      "Year": "2021",
      "Category": "Total_Families_75000_99999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "26901"
     },
     {
      "Year": "2021",
      "Category": "Total_Families_100000_149999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "36639"
     },
     {
      "Year": "2021",
      "Category": "Total_Families_150000_199999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "16834"
     },
     {
      "Year": "2021",
      "Category": "Total_Families_200000_or_more",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "20135"
     },
     {
      "Year": "2021",
      "Category": "Total_Married-couple-families_Less_10000",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "1569"
     },
     {
      "Year": "2021",
      "Category": "Total_Married-couple-families_10000_14999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "654"
     },
     {
      "Year": "2021",
      "Category": "Total_Married-couple-families_15000_24999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "2876"
     },
     {
      "Year": "2021",
      "Category": "Total_Married-couple-families_25000_34999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "4445"
     },
     {
      "Year": "2021",
      "Category": "Total_Married-couple-families_35000_49999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "9545"
     },
     {
      "Year": "2021",
      "Category": "Total_Married-couple-families_50000_74999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "20920"
     },
     {
      "Year": "2021",
      "Category": "Total_Married-couple-families_75000_99999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "23012"
     },
     {
      "Year": "2021",
      "Category": "Total_Married-couple-families_100000_149999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "32949"
     },
     {
      "Year": "2021",
      "Category": "Total_Married-couple-families_150000_199999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "15559"
     },
     {
      "Year": "2021",
      "Category": "Total_Married-couple-families_200000_or_more",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "18959"
     },
     {
      "Year": "2021",
      "Category": "Total_Nonfamily_households_Less_10000",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "7779"
     },
     {
      "Year": "2021",
      "Category": "Total_Nonfamily_households_10000_14999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "8830"
     },
     {
      "Year": "2021",
      "Category": "Total_Nonfamily_households_15000_24999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "14928"
     },
     {
      "Year": "2021",
      "Category": "Total_Nonfamily_households_25000_34999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "13035"
     },
     {
      "Year": "2021",
      "Category": "Total_Nonfamily_households_35000_49999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "16399"
     },
     {
      "Year": "2021",
      "Category": "Total_Nonfamily_households_50000_74999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "17556"
     },
     {
      "Year": "2021",
      "Category": "Total_Nonfamily_households_75000_99999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "11248"
     },
     {
      "Year": "2021",
      "Category": "Total_Nonfamily_households_100000_149999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "9356"
     },
     {
      "Year": "2021",
      "Category": "Total_Nonfamily_households_150000_199999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "2943"
     },
     {
      "Year": "2021",
      "Category": "Total_Nonfamily_households_200000_or_more",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "2943"
     },
     {
      "Year": "2022",
      "Category": "Total_Households_Less_10000",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "11084"
     },
     {
      "Year": "2022",
      "Category": "Total_Households_10000_14999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "10529"
     },
     {
      "Year": "2022",
      "Category": "Total_Households_15000_24999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "18565"
     },
     {
      "Year": "2022",
      "Category": "Total_Households_25000_34999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "22444"
     },
     {
      "Year": "2022",
      "Category": "Total_Households_35000_49999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "30480"
     },
     {
      "Year": "2022",
      "Category": "Total_Households_50000_74999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "47382"
     },
     {
      "Year": "2022",
      "Category": "Total_Households_75000_99999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "38238"
     },
     {
      "Year": "2022",
      "Category": "Total_Households_100000_149999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "47382"
     },
     {
      "Year": "2022",
      "Category": "Total_Households_150000_199999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "27432"
     },
     {
      "Year": "2022",
      "Category": "Total_Households_200000_or_more",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "23553"
     },
     {
      "Year": "2022",
      "Category": "Total_Families_Less_10000",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "3290"
     },
     {
      "Year": "2022",
      "Category": "Total_Families_10000_14999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "2467"
     },
     {
      "Year": "2022",
      "Category": "Total_Families_15000_24999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "6580"
     },
     {
      "Year": "2022",
      "Category": "Total_Families_25000_34999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "9047"
     },
     {
      "Year": "2022",
      "Category": "Total_Families_35000_49999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "14147"
     },
     {
      "Year": "2022",
      "Category": "Total_Families_50000_74999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "24839"
     },
     {
      "Year": "2022",
      "Category": "Total_Families_75000_99999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "25826"
     },
     {
      "Year": "2022",
      "Category": "Total_Families_100000_149999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "36683"
     },
     {
      "Year": "2022",
      "Category": "Total_Families_150000_199999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "21713"
     },
     {
      "Year": "2022",
      "Category": "Total_Families_200000_or_more",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "19740"
     },
     {
      "Year": "2022",
      "Category": "Total_Married-couple-families_Less_10000",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "1050"
     },
     {
      "Year": "2022",
      "Category": "Total_Married-couple-families_10000_14999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "919"
     },
     {
      "Year": "2022",
      "Category": "Total_Married-couple-families_15000_24999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "2493"
     },
     {
      "Year": "2022",
      "Category": "Total_Married-couple-families_25000_34999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "5774"
     },
     {
      "Year": "2022",
      "Category": "Total_Married-couple-families_35000_49999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "9449"
     },
     {
      "Year": "2022",
      "Category": "Total_Married-couple-families_50000_74999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "17717"
     },
     {
      "Year": "2022",
      "Category": "Total_Married-couple-families_75000_99999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "21260"
     },
     {
      "Year": "2022",
      "Category": "Total_Married-couple-families_100000_149999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "32940"
     },
     {
      "Year": "2022",
      "Category": "Total_Married-couple-families_150000_199999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "20735"
     },
     {
      "Year": "2022",
      "Category": "Total_Married-couple-families_200000_or_more",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "18766"
     },
     {
      "Year": "2022",
      "Category": "Total_Nonfamily_households_Less_10000",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "8107"
     },
     {
      "Year": "2022",
      "Category": "Total_Nonfamily_households_10000_14999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "8219"
     },
     {
      "Year": "2022",
      "Category": "Total_Nonfamily_households_15000_24999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "13849"
     },
     {
      "Year": "2022",
      "Category": "Total_Nonfamily_households_25000_34999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "14412"
     },
     {
      "Year": "2022",
      "Category": "Total_Nonfamily_households_35000_49999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "16214"
     },
     {
      "Year": "2022",
      "Category": "Total_Nonfamily_households_50000_74999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "21843"
     },
     {
      "Year": "2022",
      "Category": "Total_Nonfamily_households_75000_99999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "12048"
     },
     {
      "Year": "2022",
      "Category": "Total_Nonfamily_households_100000_149999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "9908"
     },
     {
      "Year": "2022",
      "Category": "Total_Nonfamily_households_150000_199999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "4842"
     },
     {
      "Year": "2022",
      "Category": "Total_Nonfamily_households_200000_or_more",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "3153"
     },
     {
      "Year": "2023",
      "Category": "Total_Households_Less_10000",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "13421"
     },
     {
      "Year": "2023",
      "Category": "Total_Households_10000_14999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "7550"
     },
     {
      "Year": "2023",
      "Category": "Total_Households_15000_24999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "18454"
     },
     {
      "Year": "2023",
      "Category": "Total_Households_25000_34999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "17616"
     },
     {
      "Year": "2023",
      "Category": "Total_Households_35000_49999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "28800"
     },
     {
      "Year": "2023",
      "Category": "Total_Households_50000_74999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "45856"
     },
     {
      "Year": "2023",
      "Category": "Total_Households_75000_99999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "35231"
     },
     {
      "Year": "2023",
      "Category": "Total_Households_100000_149999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "55643"
     },
     {
      "Year": "2023",
      "Category": "Total_Households_150000_199999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "27682"
     },
     {
      "Year": "2023",
      "Category": "Total_Households_200000_or_more",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "29359"
     },
     {
      "Year": "2023",
      "Category": "Total_Families_Less_10000",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "2984"
     },
     {
      "Year": "2023",
      "Category": "Total_Families_10000_14999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "1326"
     },
     {
      "Year": "2023",
      "Category": "Total_Families_15000_24999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "5139"
     },
     {
      "Year": "2023",
      "Category": "Total_Families_25000_34999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "5967"
     },
     {
      "Year": "2023",
      "Category": "Total_Families_35000_49999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "13426"
     },
     {
      "Year": "2023",
      "Category": "Total_Families_50000_74999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "25195"
     },
     {
      "Year": "2023",
      "Category": "Total_Families_75000_99999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "23538"
     },
     {
      "Year": "2023",
      "Category": "Total_Families_100000_149999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "41606"
     },
     {
      "Year": "2023",
      "Category": "Total_Families_150000_199999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "22543"
     },
     {
      "Year": "2023",
      "Category": "Total_Families_200000_or_more",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "24035"
     },
     {
      "Year": "2023",
      "Category": "Total_Married-couple-families_Less_10000",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "925"
     },
     {
      "Year": "2023",
      "Category": "Total_Married-couple-families_10000_14999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "661"
     },
     {
      "Year": "2023",
      "Category": "Total_Married-couple-families_15000_24999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "1983"
     },
     {
      "Year": "2023",
      "Category": "Total_Married-couple-families_25000_34999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "3304"
     },
     {
      "Year": "2023",
      "Category": "Total_Married-couple-families_35000_49999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "7930"
     },
     {
      "Year": "2023",
      "Category": "Total_Married-couple-families_50000_74999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "18372"
     },
     {
      "Year": "2023",
      "Category": "Total_Married-couple-families_75000_99999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "19165"
     },
     {
      "Year": "2023",
      "Category": "Total_Married-couple-families_100000_149999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "36744"
     },
     {
      "Year": "2023",
      "Category": "Total_Married-couple-families_150000_199999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "20487"
     },
     {
      "Year": "2023",
      "Category": "Total_Married-couple-families_200000_or_more",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "22602"
     },
     {
      "Year": "2023",
      "Category": "Total_Nonfamily_households_Less_10000",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "11044"
     },
     {
      "Year": "2023",
      "Category": "Total_Nonfamily_households_10000_14999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "6490"
     },
     {
      "Year": "2023",
      "Category": "Total_Nonfamily_households_15000_24999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "14118"
     },
     {
      "Year": "2023",
      "Category": "Total_Nonfamily_households_25000_34999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "11841"
     },
     {
      "Year": "2023",
      "Category": "Total_Nonfamily_households_35000_49999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "16850"
     },
     {
      "Year": "2023",
      "Category": "Total_Nonfamily_households_50000_74999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "21404"
     },
     {
      "Year": "2023",
      "Category": "Total_Nonfamily_households_75000_99999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "10474"
     },
     {
      "Year": "2023",
      "Category": "Total_Nonfamily_households_100000_149999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "13093"
     },
     {
      "Year": "2023",
      "Category": "Total_Nonfamily_households_150000_199999",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "4213"
     },
     {
      "Year": "2023",
      "Category": "Total_Nonfamily_households_200000_or_more",
-     "State": "Vermont",
+     "State": "Vermo0t",
      "Value": "4326"
     },
     {
@@ -55563,61 +55563,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Virginia",
-     "Value": "11135"
+     "Value": "15907"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Virginia",
-     "Value": "38176"
+     "Value": "11135"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Virginia",
-     "Value": "62036"
+     "Value": "38176"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Virginia",
-     "Value": "114527"
+     "Value": "62036"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Virginia",
-     "Value": "225874"
+     "Value": "114527"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Virginia",
-     "Value": "230646"
+     "Value": "225874"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Virginia",
-     "Value": "362670"
+     "Value": "230646"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Virginia",
-     "Value": "214739"
+     "Value": "362670"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Virginia",
-     "Value": "313360"
+     "Value": "214739"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Virginia",
-     "Value": "1759523359"
+     "Value": "313360"
     },
     {
      "Year": "2019",
@@ -56763,61 +56763,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Washington",
-     "Value": "11587"
+     "Value": "14484"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Washington",
-     "Value": "34761"
+     "Value": "11587"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Washington",
-     "Value": "47796"
+     "Value": "34761"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Washington",
-     "Value": "99938"
+     "Value": "47796"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Washington",
-     "Value": "215807"
+     "Value": "99938"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Washington",
-     "Value": "224498"
+     "Value": "215807"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Washington",
-     "Value": "344713"
+     "Value": "224498"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Washington",
-     "Value": "196979"
+     "Value": "344713"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Washington",
-     "Value": "259259"
+     "Value": "196979"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Washington",
-     "Value": "1571483620"
+     "Value": "259259"
     },
     {
      "Year": "2019",
@@ -57963,61 +57963,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "West Virginia",
-     "Value": "4936"
+     "Value": "7757"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "West Virginia",
-     "Value": "16924"
+     "Value": "4936"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "West Virginia",
-     "Value": "27502"
+     "Value": "16924"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "West Virginia",
-     "Value": "50420"
+     "Value": "27502"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "West Virginia",
-     "Value": "74043"
+     "Value": "50420"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "West Virginia",
-     "Value": "60645"
+     "Value": "74043"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "West Virginia",
-     "Value": "69107"
+     "Value": "60645"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "West Virginia",
-     "Value": "21508"
+     "Value": "69107"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "West Virginia",
-     "Value": "20450"
+     "Value": "21508"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "West Virginia",
-     "Value": "257860977"
+     "Value": "20450"
     },
     {
      "Year": "2019",
@@ -59163,61 +59163,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Wisconsin",
-     "Value": "7980"
+     "Value": "9120"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Wisconsin",
-     "Value": "29640"
+     "Value": "7980"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Wisconsin",
-     "Value": "46740"
+     "Value": "29640"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Wisconsin",
-     "Value": "98040"
+     "Value": "46740"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Wisconsin",
-     "Value": "212040"
+     "Value": "98040"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Wisconsin",
-     "Value": "210900"
+     "Value": "212040"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Wisconsin",
-     "Value": "299820"
+     "Value": "210900"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Wisconsin",
-     "Value": "121980"
+     "Value": "299820"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Wisconsin",
-     "Value": "104880"
+     "Value": "121980"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Wisconsin",
-     "Value": "1074461400"
+     "Value": "104880"
     },
     {
      "Year": "2019",
@@ -60369,55 +60369,55 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Wyoming",
-     "Value": "4324"
+     "Value": "1235"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Wyoming",
-     "Value": "5930"
+     "Value": "4324"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Wyoming",
-     "Value": "10007"
+     "Value": "5930"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Wyoming",
-     "Value": "25450"
+     "Value": "10007"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Wyoming",
-     "Value": "24338"
+     "Value": "25450"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Wyoming",
-     "Value": "30021"
+     "Value": "24338"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Wyoming",
-     "Value": "11613"
+     "Value": "30021"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Wyoming",
-     "Value": "9389"
+     "Value": "11613"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Wyoming",
-     "Value": "110095891"
+     "Value": "9389"
     },
     {
      "Year": "2019",
@@ -61563,61 +61563,61 @@ const data = [
      "Year": "2019",
      "Category": "Total_Married-couple-families_Less_10000",
      "State": "Puerto Rico",
-     "Value": "38375"
+     "Value": "42687"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_10000_14999",
      "State": "Puerto Rico",
-     "Value": "79768"
+     "Value": "38375"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_15000_24999",
      "State": "Puerto Rico",
-     "Value": "62090"
+     "Value": "79768"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_25000_34999",
      "State": "Puerto Rico",
-     "Value": "68989"
+     "Value": "62090"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_35000_49999",
      "State": "Puerto Rico",
-     "Value": "65970"
+     "Value": "68989"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_50000_74999",
      "State": "Puerto Rico",
-     "Value": "31045"
+     "Value": "65970"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_75000_99999",
      "State": "Puerto Rico",
-     "Value": "25440"
+     "Value": "31045"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_100000_149999",
      "State": "Puerto Rico",
-     "Value": "7330"
+     "Value": "25440"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_150000_199999",
      "State": "Puerto Rico",
-     "Value": "9055"
+     "Value": "7330"
     },
     {
      "Year": "2019",
      "Category": "Total_Married-couple-families_200000_or_more",
      "State": "Puerto Rico",
-     "Value": "144186258"
+     "Value": "9055"
     },
     {
      "Year": "2019",
@@ -62399,7 +62399,7 @@ const data = [
      "State": "Puerto Rico",
      "Value": "3834"
     }
-];
+   ];
 
 // Extract unique states and years
 const states = [...new Set(data.map(d => d.State))];
